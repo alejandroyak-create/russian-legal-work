@@ -1,0 +1,4 @@
+interface:
+  display_name: "Процессуальные документы и обращения"
+  short_description: "Судебные документы и обращения в органы власти"
+  default_prompt: "Use $drafting-russian-procedural-documents to prepare a court document or an application to a public authority and check submission requirements."
