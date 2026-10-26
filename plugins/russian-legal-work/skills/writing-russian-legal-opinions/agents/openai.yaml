@@ -1,0 +1,4 @@
+interface:
+  display_name: "Российские юридические заключения"
+  short_description: "Заключения по проверенной правовой базе"
+  default_prompt: "Используй $writing-russian-legal-opinions, чтобы подготовить заключение по фактам и research pack."
