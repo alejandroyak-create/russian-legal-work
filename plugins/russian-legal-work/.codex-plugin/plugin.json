@@ -1,0 +1,23 @@
+{
+  "name": "russian-legal-work",
+  "version": "0.5.0",
+  "description": "Four Codex skills for Russian legal research, counterparty due diligence, legal opinions, and procedural documents.",
+  "author": {
+    "name": "Alexandr Yakovlev"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Российская юридическая работа",
+    "shortDescription": "Исследование, проверка и юридические документы",
+    "longDescription": "Поиск и проверка российского законодательства и судебной практики, проверка юридических лиц и ИП, подготовка правовых заключений и процессуальных документов. Результаты готового исследования используются повторно, а недостающие сведения дополняются по мере необходимости.",
+    "developerName": "Alexandr Yakovlev",
+    "category": "Legal",
+    "capabilities": [
+      "Legal research",
+      "Counterparty due diligence",
+      "Legal opinion drafting",
+      "Procedural document drafting"
+    ],
+    "defaultPrompt": "Найди и проверь российские правовые источники, проведи проверку контрагента, подготовь юридическое заключение либо процессуальный документ. Сохрани ограничения и идентификатор передаваемого research pack."
+  }
+}
