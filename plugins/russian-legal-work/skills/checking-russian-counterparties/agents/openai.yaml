@@ -1,0 +1,4 @@
+interface:
+  display_name: "Проверка российских контрагентов"
+  short_description: "Комплексное заключение о рисках контрагента"
+  default_prompt: "Используй $checking-russian-counterparties, чтобы проверить контрагента и предложить меры снижения рисков."
