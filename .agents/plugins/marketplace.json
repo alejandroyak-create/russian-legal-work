@@ -1,0 +1,20 @@
+{
+  "name": "russian-legal-work",
+  "interface": {
+    "displayName": "Russian Legal Work"
+  },
+  "plugins": [
+    {
+      "name": "russian-legal-work",
+      "source": {
+        "source": "local",
+        "path": "./plugins/russian-legal-work"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
